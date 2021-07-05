@@ -1,0 +1,24 @@
+{
+  "name": "js_methods",
+  "version": "1.0.0",
+  "description": "Simple useful functions of JavaScript like duplicate from array etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarathKannan/js_methods.git"
+  },
+  "keywords": [
+    "array",
+    "js",
+    "methods"
+  ],
+  "author": "Sarath Chandran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarathKannan/js_methods/issues"
+  },
+  "homepage": "https://github.com/SarathKannan/js_methods#readme"
+}
